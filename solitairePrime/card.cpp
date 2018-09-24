@@ -3,6 +3,7 @@
  Class: CECS 282-05
  Project Name: Prog 1 - Solitaire Prime
  Due Date: 9/20/2018
+ 
  */
 
 #include "card.hpp"
